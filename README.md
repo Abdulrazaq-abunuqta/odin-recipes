@@ -39,7 +39,7 @@ Upon completion of this project, the following core skills and concepts are appl
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/odin-recipes.git
+   git clone [https://github.com/](https://github.com/)Abdulrazaq-abunuqta/odin-recipes.git
    ```
    أهم أوامر **Git** و **GitHub** المستعملة يومياً في إدارة المشاريع وتتبع النسخ:
 

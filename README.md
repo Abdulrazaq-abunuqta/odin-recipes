@@ -115,6 +115,6 @@ Upon completion of this project, the following core skills and concepts are appl
 ## Thinx
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB5cWFrd2l0azNmMW9pOHhybTVsbnVmamVtcnZiMTZ4eGd0OHFlNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="fanny photo" width="600"/>
+<img src="" alt="fanny photo" width="600"/>
 </p>
-![Image Description](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB5cWFrd2l0azNmMW9pOHhybTVsbnVmamVtcnZiMTZ4eGd0OHFlNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3ohzdIuqJoo8QdKlnW/giphy.gif)
+<iframe src="https://giphy.com/embed/3ohzdIuqJoo8QdKlnW" width="480" height="221" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-yes-awesome-3ohzdIuqJoo8QdKlnW">via GIPHY</a></p>
